@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner.jpg" alt="Bike Rental MLOps Project Banner" width="80%" />
+</p>
+
+
 # Bike Rental Prediction MLOps Pipeline 🚲
 
 ## Overview
